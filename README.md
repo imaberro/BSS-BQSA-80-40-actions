@@ -10,7 +10,7 @@ Work repository for "Swarm-Inspired Computing to Solve Binary Optimization Probl
 
 #### 3) Install the settings.py for install all packages and set up the envir
 
-#### 4) Populate database with the experiments to be performed in "configure.py". You can follow the example with the "17.- configure (con 80a QL).py" file.
+#### 4) Populate database with the experiments to be performed in "configure.py". You can follow the example with the "1.- configure (con 80a BQSA).py" file.
 
 ```
 python configure.py
